@@ -16,3 +16,9 @@ My objective was to architect and deploy a content delivery system that would:
 - Provide HTTPS security with a custom domain
 - Ensure high availability and fault tolerance
 - Optimize performance through intelligent caching
+
+  **Architecture Diagram**
+  
+
+  <img width="834" height="870" alt="image" src="https://github.com/user-attachments/assets/733465e9-37e3-4b8f-ac40-f5fedbaeb32c" />
+
